@@ -1,2 +1,3 @@
-# playground-prompt-engineering
-Playground project to experiment with prompt engineering
+# Prompt engineering playground
+
+Playground project to experiment with prompt engineering.
